@@ -1,0 +1,14 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #,AliExpress Link
+J1,PinHeader_2x03_P2.54mm_Horizontal,1,PC Header 1,C41417351,
+J2,PinHeader_2x03_P2.54mm_Horizontal,1,PC Header 2,C41417351,
+J5,Molex_Mini-Fit_Jr_5566-06A_2x03_P4.20mm_Vertical,1,Power,C471417,
+"R1, R2, R3, R4",0805,4,R330,C17630,
+U1,WEMOS_C3_mini,1,WEMOS_C3_mini,,https://de.aliexpress.com/item/1005004740051202.html
+U2,DIP-4_W7.62mm,1,EL817 - Power Switch 1,C5353,
+U3,DIP-4_W7.62mm,1,EL817 - Reset Switch 1,C5353,
+U4,DIP-4_W7.62mm,1,EL817 - Power Switch 2,C5353,
+U5,DIP-4_W7.62mm,1,EL817 - Reset Switch 2,C5353,
+LCSC Quote: 14.32 Dollar,,,,,
+JLCPCB Quote: 6.54 Dollar,,,,,
+Aliexpress Quote: 5.69 Dollar,,,,,
+All together: 26.55 Dollar,,,,,
